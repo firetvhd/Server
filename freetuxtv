@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels_groups>
+<language id="pt" lang="Portuguese Canais">
+		<channels_group uri="https://textuploader.com/1ezru/raw" name="Web TV (Portuguese)"></channels_group>
+		<channels_group uri="http://database.freetuxtv.net/playlists/playlist_webradio_pt.m3u" name="Web Radio (Portuguese)"></channels_group>
+	</language>
