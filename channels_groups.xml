@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels_groups>
+	<language id="pt" lang="Canais Brasileiros">
+		<channels_group uri="https://github.com/firetvhd/Server/raw/main/playlist_Canais_Br.m3u" name="Web TV (Brazil)"></channels_group>
+		</language>
+
+</channels_groups>
