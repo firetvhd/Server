@@ -24,3 +24,8 @@ rc13="https://homeingles.fun/player3/server13hlb.php?vid="
 rc14="https://homeingles.fun/player3/server14hlb.php?vid="
 rc15="https://homeingles.fun/player3/server15hlb.php?vid="
 rc16="https://homeingles.fun/player3/server16hlb.php?vid="
+
+player="https://topcanais.com/player/aovivo.php?canal="
+referer="https://topcanais.com/player/aovivo.php?canal="
+referer_canal="https://topcanais.com/player/aovivo.php?canal="
+user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36"
